@@ -1,0 +1,17 @@
+{
+    "name": "AlynxSceneSystem",
+    "rootNamespace": "AlynxSceneSystem",
+    "references": [
+        "GUID:aaa2b16ddafb2174f9671fd959a4d214",
+        "GUID:3f2dcdd48329281418ea2f29925fadb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

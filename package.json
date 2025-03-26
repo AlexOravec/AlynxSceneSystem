@@ -1,0 +1,16 @@
+{
+  "name": "com.alexoravec.alyxnscenesystem",
+  "version": "1.0.0",
+  "displayName": "Alynx Scene System For Unity",
+  "description": "A simple and easy to use scene system for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Alex Oravec",
+    "email": "alex.oravec.pn@gmail.com",
+    "url": "https://www.linkedin.com/in/alex-oravec-740963163/"
+  },
+  "dependencies": {
+    "com.alexoravec.alynxservicesmanagerforunity" : "1.0.0",
+    "com.alexoravec.unitygameplayframework" : "1.0.0"
+  }
+}
