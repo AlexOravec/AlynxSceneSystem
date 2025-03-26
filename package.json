@@ -10,7 +10,7 @@
     "url": "https://www.linkedin.com/in/alex-oravec-740963163/"
   },
   "dependencies": {
-    "com.alexoravec.alyxnservicesmanager" : "1.0.0",
+    "com.alexoravec.alynxservicesmanager" : "1.0.0",
     "com.alexoravec.unitygameplayframework" : "1.0.0"
   }
 }
